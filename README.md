@@ -1,3 +1,10 @@
+
+
+#### (Choose your language below / Pilih bahasa dibawah)
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![Bahasa Indonesia](https://img.shields.io/badge/Language-Indonesia-green)](README.id-ID.md)
+---
+
 # EconomyBridge
 
 An Endstone (Python) plugin that provides **two-way synchronization**:
